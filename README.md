@@ -1,6 +1,8 @@
 ## LRU Cache in Purescript
 Based on the lrucache package: https://hackage.haskell.org/package/lrucache
+
 This C++ implementation: http://www.sanfoundry.com/cpp-program-implement-lru-cache/
+
 and Jasper Van der Jeugt blog post: https://jaspervdj.be/posts/2015-02-24-lru-cache.html
 
 _Introduction_
